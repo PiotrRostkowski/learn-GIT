@@ -9,7 +9,7 @@ public class StringExercise1 {
 				Formatter formatter = new Formatter();
 
 				// ================== Use Space format specifier
-				System.out.println();
+				System.out.println() ;
 				System.out.println("===== Space format specifier =====");
 				System.out.println();
 
