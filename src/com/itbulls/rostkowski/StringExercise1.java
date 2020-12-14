@@ -2,7 +2,7 @@ package com.itbulls.rostkowski;
 
 import java.util.Formatter;
 
-public class StringExercise1 {
+public class StringExercise1 {                     
 
 	public static void main(String[] args) {
 		// create Formatter class object
